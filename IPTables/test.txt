@@ -1,0 +1,6 @@
+iptables -I OUTPUT 1 -j DROP
+iptables -P FORWARD DROP
+iptables -I INPUT 1 -s 1.1.1.1 -d 2.2.2.2
+iptables -D OUTPUT 1
+iptables -R INPUT 1 -s 2.2.2.2 -d 1.1.1.1
+iptables -I OUTPUT 1 -p udp -j DROP
