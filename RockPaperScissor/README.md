@@ -8,7 +8,7 @@ The input specifies K moves for each of the N players followed by the player’s
 sequence (P1, P2,..., PN —> P1 competes with P2, whose winner competes with P3 and
 so on.)
 
-For full problem description, see [Question Paper](#)
+For full problem description, see [Question Paper](https://github.com/shraiysh/compilers-iith-lab/blob/master/Question%20Paper.pdf)
 
 ### How to run?
 
