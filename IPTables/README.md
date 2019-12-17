@@ -12,7 +12,7 @@ process it and print the structure of the resulting Iptables. To make the proble
 let us restrict the actual syntax/semantics of Iptables to consider the following reduced
 man page specification with the restricted usage, commands, and options.
 
-For full problem description, check [Question Paper](#)
+For full problem description, check [Question Paper](https://github.com/shraiysh/compilers-iith-lab/blob/master/Question%20Paper.pdf)
 
 ### How to run?
 
